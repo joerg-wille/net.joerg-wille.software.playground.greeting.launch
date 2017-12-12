@@ -18,8 +18,6 @@
         </description>
 	<packaging>pom</packaging>
 
-	<version>${project.parent.version}</version>
-
 	<properties>
                 <!-- Project Dependecies Version Overwrite -->
                 <greeting.api.version>${project.version}</greeting.api.version>
